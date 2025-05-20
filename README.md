@@ -1,19 +1,20 @@
 <h1 align="center">Hi 👋, I'm Arjun A</h1>
-<h3 align="center">🚀 Full Stack Developer | AI/ML Explorer | Digital Marketing Learner</h3>
+<h3 align="center">🚀 Tech & AI Enthusiast | Full Stack Developer | AI/ML Explorer | Digital Marketing Learner</h3>
 
-- 🔭 Currently building and experimenting with **full-stack apps** and **AI-based tools**
-- 🌱 Learning **Machine Learning**, **Digital Marketing Funnels**, and **GitHub Open Source**
-- 👯 Open to collaborate on **React.js projects**, **Hackathons**, and **ML side-projects**
+- 🤖 Passionate about using **AI to reduce repetitive work** and create smart solutions for real-world problems.
+- 🔭 Currently building and experimenting with **full-stack apps** and **AI-powered tools**
+- 🌱 Actively learning **Machine Learning**, **Digital Marketing Funnels**, and **Next.js**
+- 👯 Open to collaborate on **React/Next.js projects**, **Hackathons**, and **ML side-projects**
 - 🧠 Education:
   - 🎓 B.Tech IT @ CUSAT
-  - 📘 B.S Data Science (Completed Foundation) @ IIT Madras
+  - 📘 B.S Data Science (Foundation Completed) @ IIT Madras
 - 📫 Reach me at **arjun.achuthan05@gmail.com**
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,python,cpp,c,git,github,vscode,figma" />
 </p>
 
 ---
@@ -27,8 +28,8 @@
 ---
 
 ### 🚀 Highlight Projects
-- 🔗 [WorkitOut – Full Stack Workout Planner]([https://github.com/ArjunA25/workitout](https://github.com/ArjunAchuthan/WorkItOut.git))
-- 🔗 [Movie Recommendation System (ML)]([https://github.com/ArjunA25/movie-recommendation](https://github.com/ArjunAchuthan/Movie-Recommendation-System.git))
+- 🔗 [WorkitOut – Full Stack Workout Planner](https://github.com/ArjunAchuthan/WorkItOut)
+- 🔗 [Movie Recommendation System (AI/ML)](https://github.com/ArjunAchuthan/Movie-Recommendation-System)
 - 💡 New projects coming soon – stay tuned!
 
 ---
