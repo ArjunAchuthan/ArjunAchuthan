@@ -20,8 +20,8 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArjunA25&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ArjunA25&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ArjunAchuthan&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ArjunAchuthan&theme=radical" width="48%" />
 </p>
 
 ---
@@ -35,5 +35,5 @@
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ArjunA25&theme=darkhub&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ArjunAchuthan&theme=darkhub&no-frame=true&margin-w=10" />
 </p>
