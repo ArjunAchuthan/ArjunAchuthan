@@ -6,7 +6,7 @@
 - 👯 Open to collaborate on **React.js projects**, **Hackathons**, and **ML side-projects**
 - 🧠 Education:
   - 🎓 B.Tech IT @ CUSAT
-  - 📘 B.Sc Data Science (Diploma Path) @ IIT Madras
+  - 📘 B.Sc Data Science (Completed Foundation) @ IIT Madras
 - 📫 Reach me at **arjunaofficial@gmail.com**
 
 ---
@@ -27,8 +27,8 @@
 ---
 
 ### 🚀 Highlight Projects
-- 🔗 [WorkitOut – Full Stack Workout Planner](https://github.com/ArjunA25/workitout)
-- 🔗 [Movie Recommendation System (ML)](https://github.com/ArjunA25/movie-recommendation)
+- 🔗 [WorkitOut – Full Stack Workout Planner]([https://github.com/ArjunA25/workitout](https://github.com/ArjunAchuthan/WorkItOut.git))
+- 🔗 [Movie Recommendation System (ML)]([https://github.com/ArjunA25/movie-recommendation](https://github.com/ArjunAchuthan/Movie-Recommendation-System.git))
 - 💡 New projects coming soon – stay tuned!
 
 ---
