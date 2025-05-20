@@ -7,7 +7,7 @@
 - 🧠 Education:
   - 🎓 B.Tech IT @ CUSAT
   - 📘 B.Sc Data Science (Completed Foundation) @ IIT Madras
-- 📫 Reach me at **arjunaofficial@gmail.com**
+- 📫 Reach me at **arjun.achuthan05@gmail.com**
 
 ---
 
