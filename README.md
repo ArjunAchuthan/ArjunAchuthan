@@ -6,7 +6,7 @@
 - 👯 Open to collaborate on **React.js projects**, **Hackathons**, and **ML side-projects**
 - 🧠 Education:
   - 🎓 B.Tech IT @ CUSAT
-  - 📘 B.Sc Data Science (Completed Foundation) @ IIT Madras
+  - 📘 B.S Data Science (Completed Foundation) @ IIT Madras
 - 📫 Reach me at **arjun.achuthan05@gmail.com**
 
 ---
