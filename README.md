@@ -9,7 +9,7 @@
   - 🎓 B.Tech IT @ CUSAT
   - 📘 B.S Data Science (Foundation Completed) @ IIT Madras
 - 📫 Reach me at **arjun.achuthan05@gmail.com**
-- 📂 Portfolio https://arjunachuthan.framer.website/
+- 📂 Portfolio https://portfolio-owa1.onrender.com
 
 ---
 
