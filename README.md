@@ -1,25 +1,18 @@
 <h1 align="center">Hi 👋, I'm Arjun A</h1>
 
-<h3 align="center">
-Full Stack Developer • AI/ML Enthusiast • Flutter Learner
-</h3>
-
-<p align="center">
-Building practical web, mobile, and AI-powered applications.
-</p>
-
----
+📧 arjun.achuthan05@gmail.com  
+🌐 https://portfolio-owa1.onrender.com
 
 ## 🛠 Tech Stack
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,python,dart,ruby,php" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,python,dart,ruby" />
 </p>
 
 ### Frameworks & Libraries
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flutter,tailwind,bootstrap,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flutter,tailwind,bootstrap," />
 </p>
 
 ### Databases & Cloud
@@ -29,22 +22,11 @@ Building practical web, mobile, and AI-powered applications.
 
 ### Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,bash,arduino" />
+  <img src="https://skillicons.dev/icons?i=git,github,figma,linux,bash,arduino" />
 </p>
 
 ---
 
-## 🚀 Projects
-
-### 🔹 WorkItOut
-Full Stack Workout Planner  
-🔗 https://github.com/ArjunAchuthan/WorkItOut
-
-### 🔹 Movie Recommendation System
-AI/ML-based recommendation engine  
-🔗 https://github.com/ArjunAchuthan/Movie-Recommendation-System
-
----
 
 ## 📫 Connect
 
@@ -62,5 +44,3 @@ AI/ML-based recommendation engine
 </a>
 </p>
 
-📧 arjun.achuthan05@gmail.com  
-🌐 https://portfolio-owa1.onrender.com
