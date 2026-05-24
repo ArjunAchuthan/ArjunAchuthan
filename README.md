@@ -22,7 +22,7 @@
 
 ### Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,figma,linux,bash,arduino" />
+  <img src="https://skillicons.dev/icons?i=git,figma,linux,bash,arduino" />
 </p>
 
 ---
