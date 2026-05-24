@@ -7,12 +7,12 @@
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,python,dart,ruby" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,python,ruby" />
 </p>
 
 ### Frameworks & Libraries
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flutter,tailwind,bootstrap," />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,flutter,tailwind" />
 </p>
 
 ### Databases & Cloud
