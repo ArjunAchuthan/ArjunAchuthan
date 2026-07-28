@@ -44,4 +44,3 @@
 </a>
 </p>
 
-![Contribution ball-drop](./dist/ball-drop.svg)
