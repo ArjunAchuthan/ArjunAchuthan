@@ -1573,7 +1573,7 @@
             repeatCount="indefinite" />
         </rect>
         <rect x="412" y="20" width="11" height="11" rx="2"
-              fill="#161b22" stroke="#ffffff22" stroke-width="0.5">
+              fill="#0e4429" stroke="#ffffff22" stroke-width="0.5">
           <animate attributeName="opacity"
             keyTimes="0;0.5283;0.5346;0.5409;1"
             values="1;1;0.35;1;1"
@@ -1597,7 +1597,7 @@
             repeatCount="indefinite" />
         </rect>
         <rect x="412" y="62" width="11" height="11" rx="2"
-              fill="#161b22" stroke="#ffffff22" stroke-width="0.5">
+              fill="#0e4429" stroke="#ffffff22" stroke-width="0.5">
           <animate attributeName="opacity"
             keyTimes="0;0.5283;0.5346;0.5409;1"
             values="1;1;0.35;1;1"
@@ -1605,7 +1605,7 @@
             repeatCount="indefinite" />
         </rect>
         <rect x="412" y="76" width="11" height="11" rx="2"
-              fill="#161b22" stroke="#ffffff22" stroke-width="0.5">
+              fill="#0e4429" stroke="#ffffff22" stroke-width="0.5">
           <animate attributeName="opacity"
             keyTimes="0;0.5283;0.5346;0.5409;1"
             values="1;1;0.35;1;1"
@@ -1629,7 +1629,7 @@
             repeatCount="indefinite" />
         </rect>
         <rect x="426" y="20" width="11" height="11" rx="2"
-              fill="#0e4429" stroke="#ffffff22" stroke-width="0.5">
+              fill="#161b22" stroke="#ffffff22" stroke-width="0.5">
           <animate attributeName="opacity"
             keyTimes="0;0.5472;0.5535;0.5597;1"
             values="1;1;0.35;1;1"
@@ -1653,7 +1653,7 @@
             repeatCount="indefinite" />
         </rect>
         <rect x="426" y="62" width="11" height="11" rx="2"
-              fill="#0e4429" stroke="#ffffff22" stroke-width="0.5">
+              fill="#161b22" stroke="#ffffff22" stroke-width="0.5">
           <animate attributeName="opacity"
             keyTimes="0;0.5472;0.5535;0.5597;1"
             values="1;1;0.35;1;1"
@@ -1661,7 +1661,7 @@
             repeatCount="indefinite" />
         </rect>
         <rect x="426" y="76" width="11" height="11" rx="2"
-              fill="#0e4429" stroke="#ffffff22" stroke-width="0.5">
+              fill="#161b22" stroke="#ffffff22" stroke-width="0.5">
           <animate attributeName="opacity"
             keyTimes="0;0.5472;0.5535;0.5597;1"
             values="1;1;0.35;1;1"
@@ -2245,7 +2245,7 @@
             repeatCount="indefinite" />
         </rect>
         <rect x="580" y="20" width="11" height="11" rx="2"
-              fill="#161b22" stroke="#ffffff22" stroke-width="0.5">
+              fill="#26a641" stroke="#ffffff22" stroke-width="0.5">
           <animate attributeName="opacity"
             keyTimes="0;0.7547;0.7610;0.7673;1"
             values="1;1;0.35;1;1"
@@ -2301,7 +2301,7 @@
             repeatCount="indefinite" />
         </rect>
         <rect x="594" y="20" width="11" height="11" rx="2"
-              fill="#26a641" stroke="#ffffff22" stroke-width="0.5">
+              fill="#161b22" stroke="#ffffff22" stroke-width="0.5">
           <animate attributeName="opacity"
             keyTimes="0;0.7736;0.7799;0.7862;1"
             values="1;1;0.35;1;1"
@@ -2341,7 +2341,7 @@
             repeatCount="indefinite" />
         </rect>
         <rect x="594" y="90" width="11" height="11" rx="2"
-              fill="#161b22" stroke="#ffffff22" stroke-width="0.5">
+              fill="#0e4429" stroke="#ffffff22" stroke-width="0.5">
           <animate attributeName="opacity"
             keyTimes="0;0.7736;0.7799;0.7862;1"
             values="1;1;0.35;1;1"
@@ -2397,7 +2397,7 @@
             repeatCount="indefinite" />
         </rect>
         <rect x="608" y="90" width="11" height="11" rx="2"
-              fill="#0e4429" stroke="#ffffff22" stroke-width="0.5">
+              fill="#161b22" stroke="#ffffff22" stroke-width="0.5">
           <animate attributeName="opacity"
             keyTimes="0;0.7925;0.7987;0.8050;1"
             values="1;1;0.35;1;1"
@@ -2429,7 +2429,7 @@
             repeatCount="indefinite" />
         </rect>
         <rect x="622" y="48" width="11" height="11" rx="2"
-              fill="#161b22" stroke="#ffffff22" stroke-width="0.5">
+              fill="#0e4429" stroke="#ffffff22" stroke-width="0.5">
           <animate attributeName="opacity"
             keyTimes="0;0.8113;0.8176;0.8239;1"
             values="1;1;0.35;1;1"
@@ -2437,7 +2437,7 @@
             repeatCount="indefinite" />
         </rect>
         <rect x="622" y="62" width="11" height="11" rx="2"
-              fill="#161b22" stroke="#ffffff22" stroke-width="0.5">
+              fill="#0e4429" stroke="#ffffff22" stroke-width="0.5">
           <animate attributeName="opacity"
             keyTimes="0;0.8113;0.8176;0.8239;1"
             values="1;1;0.35;1;1"
@@ -2445,7 +2445,7 @@
             repeatCount="indefinite" />
         </rect>
         <rect x="622" y="76" width="11" height="11" rx="2"
-              fill="#161b22" stroke="#ffffff22" stroke-width="0.5">
+              fill="#0e4429" stroke="#ffffff22" stroke-width="0.5">
           <animate attributeName="opacity"
             keyTimes="0;0.8113;0.8176;0.8239;1"
             values="1;1;0.35;1;1"
@@ -2453,7 +2453,7 @@
             repeatCount="indefinite" />
         </rect>
         <rect x="622" y="90" width="11" height="11" rx="2"
-              fill="#161b22" stroke="#ffffff22" stroke-width="0.5">
+              fill="#0e4429" stroke="#ffffff22" stroke-width="0.5">
           <animate attributeName="opacity"
             keyTimes="0;0.8113;0.8176;0.8239;1"
             values="1;1;0.35;1;1"
@@ -2461,7 +2461,7 @@
             repeatCount="indefinite" />
         </rect>
         <rect x="622" y="104" width="11" height="11" rx="2"
-              fill="#161b22" stroke="#ffffff22" stroke-width="0.5">
+              fill="#0e4429" stroke="#ffffff22" stroke-width="0.5">
           <animate attributeName="opacity"
             keyTimes="0;0.8113;0.8176;0.8239;1"
             values="1;1;0.35;1;1"
@@ -2477,7 +2477,7 @@
             repeatCount="indefinite" />
         </rect>
         <rect x="636" y="34" width="11" height="11" rx="2"
-              fill="#161b22" stroke="#ffffff22" stroke-width="0.5">
+              fill="#0e4429" stroke="#ffffff22" stroke-width="0.5">
           <animate attributeName="opacity"
             keyTimes="0;0.8302;0.8365;0.8428;1"
             values="1;1;0.35;1;1"
@@ -2485,7 +2485,7 @@
             repeatCount="indefinite" />
         </rect>
         <rect x="636" y="48" width="11" height="11" rx="2"
-              fill="#0e4429" stroke="#ffffff22" stroke-width="0.5">
+              fill="#161b22" stroke="#ffffff22" stroke-width="0.5">
           <animate attributeName="opacity"
             keyTimes="0;0.8302;0.8365;0.8428;1"
             values="1;1;0.35;1;1"
@@ -2493,7 +2493,7 @@
             repeatCount="indefinite" />
         </rect>
         <rect x="636" y="62" width="11" height="11" rx="2"
-              fill="#0e4429" stroke="#ffffff22" stroke-width="0.5">
+              fill="#161b22" stroke="#ffffff22" stroke-width="0.5">
           <animate attributeName="opacity"
             keyTimes="0;0.8302;0.8365;0.8428;1"
             values="1;1;0.35;1;1"
@@ -2533,7 +2533,7 @@
             repeatCount="indefinite" />
         </rect>
         <rect x="650" y="34" width="11" height="11" rx="2"
-              fill="#0e4429" stroke="#ffffff22" stroke-width="0.5">
+              fill="#161b22" stroke="#ffffff22" stroke-width="0.5">
           <animate attributeName="opacity"
             keyTimes="0;0.8491;0.8553;0.8616;1"
             values="1;1;0.35;1;1"
@@ -2557,7 +2557,7 @@
             repeatCount="indefinite" />
         </rect>
         <rect x="650" y="76" width="11" height="11" rx="2"
-              fill="#0e4429" stroke="#ffffff22" stroke-width="0.5">
+              fill="#006d32" stroke="#ffffff22" stroke-width="0.5">
           <animate attributeName="opacity"
             keyTimes="0;0.8491;0.8553;0.8616;1"
             values="1;1;0.35;1;1"
@@ -2573,7 +2573,7 @@
             repeatCount="indefinite" />
         </rect>
         <rect x="650" y="104" width="11" height="11" rx="2"
-              fill="#0e4429" stroke="#ffffff22" stroke-width="0.5">
+              fill="#161b22" stroke="#ffffff22" stroke-width="0.5">
           <animate attributeName="opacity"
             keyTimes="0;0.8491;0.8553;0.8616;1"
             values="1;1;0.35;1;1"
@@ -2613,7 +2613,7 @@
             repeatCount="indefinite" />
         </rect>
         <rect x="664" y="76" width="11" height="11" rx="2"
-              fill="#006d32" stroke="#ffffff22" stroke-width="0.5">
+              fill="#161b22" stroke="#ffffff22" stroke-width="0.5">
           <animate attributeName="opacity"
             keyTimes="0;0.8679;0.8742;0.8805;1"
             values="1;1;0.35;1;1"
@@ -2621,7 +2621,7 @@
             repeatCount="indefinite" />
         </rect>
         <rect x="664" y="90" width="11" height="11" rx="2"
-              fill="#0e4429" stroke="#ffffff22" stroke-width="0.5">
+              fill="#161b22" stroke="#ffffff22" stroke-width="0.5">
           <animate attributeName="opacity"
             keyTimes="0;0.8679;0.8742;0.8805;1"
             values="1;1;0.35;1;1"
@@ -2701,7 +2701,7 @@
             repeatCount="indefinite" />
         </rect>
         <rect x="692" y="34" width="11" height="11" rx="2"
-              fill="#161b22" stroke="#ffffff22" stroke-width="0.5">
+              fill="#0e4429" stroke="#ffffff22" stroke-width="0.5">
           <animate attributeName="opacity"
             keyTimes="0;0.9057;0.9119;0.9182;1"
             values="1;1;0.35;1;1"
@@ -2709,7 +2709,7 @@
             repeatCount="indefinite" />
         </rect>
         <rect x="692" y="48" width="11" height="11" rx="2"
-              fill="#161b22" stroke="#ffffff22" stroke-width="0.5">
+              fill="#0e4429" stroke="#ffffff22" stroke-width="0.5">
           <animate attributeName="opacity"
             keyTimes="0;0.9057;0.9119;0.9182;1"
             values="1;1;0.35;1;1"
@@ -2717,7 +2717,7 @@
             repeatCount="indefinite" />
         </rect>
         <rect x="692" y="62" width="11" height="11" rx="2"
-              fill="#161b22" stroke="#ffffff22" stroke-width="0.5">
+              fill="#39d353" stroke="#ffffff22" stroke-width="0.5">
           <animate attributeName="opacity"
             keyTimes="0;0.9057;0.9119;0.9182;1"
             values="1;1;0.35;1;1"
@@ -2749,7 +2749,7 @@
             repeatCount="indefinite" />
         </rect>
         <rect x="706" y="20" width="11" height="11" rx="2"
-              fill="#161b22" stroke="#ffffff22" stroke-width="0.5">
+              fill="#39d353" stroke="#ffffff22" stroke-width="0.5">
           <animate attributeName="opacity"
             keyTimes="0;0.9245;0.9308;0.9371;1"
             values="1;1;0.35;1;1"
@@ -2757,7 +2757,7 @@
             repeatCount="indefinite" />
         </rect>
         <rect x="706" y="34" width="11" height="11" rx="2"
-              fill="#0e4429" stroke="#ffffff22" stroke-width="0.5">
+              fill="#161b22" stroke="#ffffff22" stroke-width="0.5">
           <animate attributeName="opacity"
             keyTimes="0;0.9245;0.9308;0.9371;1"
             values="1;1;0.35;1;1"
@@ -2765,7 +2765,7 @@
             repeatCount="indefinite" />
         </rect>
         <rect x="706" y="48" width="11" height="11" rx="2"
-              fill="#0e4429" stroke="#ffffff22" stroke-width="0.5">
+              fill="#006d32" stroke="#ffffff22" stroke-width="0.5">
           <animate attributeName="opacity"
             keyTimes="0;0.9245;0.9308;0.9371;1"
             values="1;1;0.35;1;1"
@@ -2773,7 +2773,7 @@
             repeatCount="indefinite" />
         </rect>
         <rect x="706" y="62" width="11" height="11" rx="2"
-              fill="#39d353" stroke="#ffffff22" stroke-width="0.5">
+              fill="#0e4429" stroke="#ffffff22" stroke-width="0.5">
           <animate attributeName="opacity"
             keyTimes="0;0.9245;0.9308;0.9371;1"
             values="1;1;0.35;1;1"
@@ -2781,7 +2781,7 @@
             repeatCount="indefinite" />
         </rect>
         <rect x="706" y="76" width="11" height="11" rx="2"
-              fill="#161b22" stroke="#ffffff22" stroke-width="0.5">
+              fill="#0e4429" stroke="#ffffff22" stroke-width="0.5">
           <animate attributeName="opacity"
             keyTimes="0;0.9245;0.9308;0.9371;1"
             values="1;1;0.35;1;1"
@@ -2789,7 +2789,7 @@
             repeatCount="indefinite" />
         </rect>
         <rect x="706" y="90" width="11" height="11" rx="2"
-              fill="#161b22" stroke="#ffffff22" stroke-width="0.5">
+              fill="#0e4429" stroke="#ffffff22" stroke-width="0.5">
           <animate attributeName="opacity"
             keyTimes="0;0.9245;0.9308;0.9371;1"
             values="1;1;0.35;1;1"
@@ -2797,7 +2797,7 @@
             repeatCount="indefinite" />
         </rect>
         <rect x="706" y="104" width="11" height="11" rx="2"
-              fill="#161b22" stroke="#ffffff22" stroke-width="0.5">
+              fill="#0e4429" stroke="#ffffff22" stroke-width="0.5">
           <animate attributeName="opacity"
             keyTimes="0;0.9245;0.9308;0.9371;1"
             values="1;1;0.35;1;1"
@@ -2805,7 +2805,7 @@
             repeatCount="indefinite" />
         </rect>
         <rect x="720" y="20" width="11" height="11" rx="2"
-              fill="#39d353" stroke="#ffffff22" stroke-width="0.5">
+              fill="#0e4429" stroke="#ffffff22" stroke-width="0.5">
           <animate attributeName="opacity"
             keyTimes="0;0.9434;0.9497;0.9560;1"
             values="1;1;0.35;1;1"
@@ -2813,7 +2813,7 @@
             repeatCount="indefinite" />
         </rect>
         <rect x="720" y="34" width="11" height="11" rx="2"
-              fill="#161b22" stroke="#ffffff22" stroke-width="0.5">
+              fill="#0e4429" stroke="#ffffff22" stroke-width="0.5">
           <animate attributeName="opacity"
             keyTimes="0;0.9434;0.9497;0.9560;1"
             values="1;1;0.35;1;1"
@@ -2821,7 +2821,7 @@
             repeatCount="indefinite" />
         </rect>
         <rect x="720" y="48" width="11" height="11" rx="2"
-              fill="#006d32" stroke="#ffffff22" stroke-width="0.5">
+              fill="#0e4429" stroke="#ffffff22" stroke-width="0.5">
           <animate attributeName="opacity"
             keyTimes="0;0.9434;0.9497;0.9560;1"
             values="1;1;0.35;1;1"
@@ -2917,54 +2917,6 @@
             repeatCount="indefinite" />
         </rect>
         <rect x="748" y="20" width="11" height="11" rx="2"
-              fill="#0e4429" stroke="#ffffff22" stroke-width="0.5">
-          <animate attributeName="opacity"
-            keyTimes="0;0.9811;0.9874;0.9937;1"
-            values="1;1;0.35;1;1"
-            dur="23.85s"
-            repeatCount="indefinite" />
-        </rect>
-        <rect x="748" y="34" width="11" height="11" rx="2"
-              fill="#0e4429" stroke="#ffffff22" stroke-width="0.5">
-          <animate attributeName="opacity"
-            keyTimes="0;0.9811;0.9874;0.9937;1"
-            values="1;1;0.35;1;1"
-            dur="23.85s"
-            repeatCount="indefinite" />
-        </rect>
-        <rect x="748" y="48" width="11" height="11" rx="2"
-              fill="#0e4429" stroke="#ffffff22" stroke-width="0.5">
-          <animate attributeName="opacity"
-            keyTimes="0;0.9811;0.9874;0.9937;1"
-            values="1;1;0.35;1;1"
-            dur="23.85s"
-            repeatCount="indefinite" />
-        </rect>
-        <rect x="748" y="62" width="11" height="11" rx="2"
-              fill="#0e4429" stroke="#ffffff22" stroke-width="0.5">
-          <animate attributeName="opacity"
-            keyTimes="0;0.9811;0.9874;0.9937;1"
-            values="1;1;0.35;1;1"
-            dur="23.85s"
-            repeatCount="indefinite" />
-        </rect>
-        <rect x="748" y="76" width="11" height="11" rx="2"
-              fill="#0e4429" stroke="#ffffff22" stroke-width="0.5">
-          <animate attributeName="opacity"
-            keyTimes="0;0.9811;0.9874;0.9937;1"
-            values="1;1;0.35;1;1"
-            dur="23.85s"
-            repeatCount="indefinite" />
-        </rect>
-        <rect x="748" y="90" width="11" height="11" rx="2"
-              fill="#0e4429" stroke="#ffffff22" stroke-width="0.5">
-          <animate attributeName="opacity"
-            keyTimes="0;0.9811;0.9874;0.9937;1"
-            values="1;1;0.35;1;1"
-            dur="23.85s"
-            repeatCount="indefinite" />
-        </rect>
-        <rect x="748" y="104" width="11" height="11" rx="2"
               fill="#161b22" stroke="#ffffff22" stroke-width="0.5">
           <animate attributeName="opacity"
             keyTimes="0;0.9811;0.9874;0.9937;1"
@@ -2974,7 +2926,7 @@
         </rect>
 
   <!-- invisible path the ball follows -->
-  <path id="ballPath" d="M 20 118 Q 22.1 109.6 27 109.6 Q 31.9 109.6 34 118 Q 36.1 109.6 41 109.6 Q 45.9 109.6 48 118 Q 50.1 109.6 55 109.6 Q 59.9 109.6 62 118 Q 64.1 109.6 69 109.6 Q 73.9 109.6 76 118 Q 78.1 109.6 83 109.6 Q 87.9 109.6 90 118 Q 92.1 109.6 97 109.6 Q 101.9 109.6 104 118 Q 106.1 109.6 111 109.6 Q 115.9 109.6 118 118 Q 120.1 109.6 125 109.6 Q 129.9 109.6 132 118 Q 134.1 109.6 139 109.6 Q 143.9 109.6 146 118 Q 148.1 109.6 153 109.6 Q 157.9 109.6 160 118 Q 162.1 109.6 167 109.6 Q 171.9 109.6 174 118 Q 176.1 109.6 181 109.6 Q 185.9 109.6 188 118 Q 190.1 109.6 195 109.6 Q 199.9 109.6 202 118 Q 204.1 109.6 209 109.6 Q 213.9 109.6 216 118 Q 218.1 109.6 223 109.6 Q 227.9 109.6 230 118 Q 232.1 109.6 237 109.6 Q 241.9 109.6 244 118 Q 246.1 109.6 251 109.6 Q 255.9 109.6 258 118 Q 260.1 109.6 265 109.6 Q 269.9 109.6 272 118 Q 274.1 109.6 279 109.6 Q 283.9 109.6 286 118 Q 288.1 109.6 293 109.6 Q 297.9 109.6 300 118 Q 302.1 109.6 307 109.6 Q 311.9 109.6 314 118 Q 316.1 109.6 321 109.6 Q 325.9 109.6 328 118 Q 330.1 109.6 335 109.6 Q 339.9 109.6 342 118 Q 344.1 109.6 349 109.6 Q 353.9 109.6 356 118 Q 358.1 109.6 363 109.6 Q 367.9 109.6 370 118 Q 372.1 109.6 377 109.6 Q 381.9 109.6 384 118 Q 386.1 109.6 391 109.6 Q 395.9 109.6 398 118 Q 400.1 109.6 405 109.6 Q 409.9 109.6 412 118 Q 414.1 109.6 419 109.6 Q 423.9 109.6 426 118 Q 428.1 88.91111111111111 433 88.91111111111111 Q 437.9 88.91111111111111 440 118 Q 442.1 109.6 447 109.6 Q 451.9 109.6 454 118 Q 456.1 109.6 461 109.6 Q 465.9 109.6 468 118 Q 470.1 109.6 475 109.6 Q 479.9 109.6 482 118 Q 484.1 109.6 489 109.6 Q 493.9 109.6 496 118 Q 498.1 109.6 503 109.6 Q 507.9 109.6 510 118 Q 512.1 109.6 517 109.6 Q 521.9 109.6 524 118 Q 526.1 109.6 531 109.6 Q 535.9 109.6 538 118 Q 540.1 109.6 545 109.6 Q 549.9 109.6 552 118 Q 554.1 109.6 559 109.6 Q 563.9 109.6 566 118 Q 568.1 109.6 573 109.6 Q 577.9 109.6 580 118 Q 582.1 109.6 587 109.6 Q 591.9 109.6 594 118 Q 596.1 83 601 83 Q 605.9 83 608 118 Q 610.1 103.6888888888889 615 103.6888888888889 Q 619.9 103.6888888888889 622 118 Q 624.1 109.6 629 109.6 Q 633.9 109.6 636 118 Q 638.1 83 643 83 Q 647.9 83 650 118 Q 652.1 91.86666666666667 657 91.86666666666667 Q 661.9 91.86666666666667 664 118 Q 666.1 83 671 83 Q 675.9 83 678 118 Q 680.1 109.6 685 109.6 Q 689.9 109.6 692 118 Q 694.1 109.6 699 109.6 Q 703.9 109.6 706 118 Q 708.1 65.26666666666667 713 65.26666666666667 Q 717.9 65.26666666666667 720 118 Q 722.1 29.799999999999997 727 29.799999999999997 Q 731.9 29.799999999999997 734 118 Q 736.1 88.91111111111111 741 88.91111111111111 Q 745.9 88.91111111111111 748 118 Q 750.1 91.86666666666667 755 91.86666666666667 Q 759.9 91.86666666666667 762 118" fill="none" stroke="none"/>
+  <path id="ballPath" d="M 20 118 Q 22.1 109.6 27 109.6 Q 31.9 109.6 34 118 Q 36.1 109.6 41 109.6 Q 45.9 109.6 48 118 Q 50.1 109.6 55 109.6 Q 59.9 109.6 62 118 Q 64.1 109.6 69 109.6 Q 73.9 109.6 76 118 Q 78.1 109.6 83 109.6 Q 87.9 109.6 90 118 Q 92.1 109.6 97 109.6 Q 101.9 109.6 104 118 Q 106.1 109.6 111 109.6 Q 115.9 109.6 118 118 Q 120.1 109.6 125 109.6 Q 129.9 109.6 132 118 Q 134.1 109.6 139 109.6 Q 143.9 109.6 146 118 Q 148.1 109.6 153 109.6 Q 157.9 109.6 160 118 Q 162.1 109.6 167 109.6 Q 171.9 109.6 174 118 Q 176.1 109.6 181 109.6 Q 185.9 109.6 188 118 Q 190.1 109.6 195 109.6 Q 199.9 109.6 202 118 Q 204.1 109.6 209 109.6 Q 213.9 109.6 216 118 Q 218.1 109.6 223 109.6 Q 227.9 109.6 230 118 Q 232.1 109.6 237 109.6 Q 241.9 109.6 244 118 Q 246.1 109.6 251 109.6 Q 255.9 109.6 258 118 Q 260.1 109.6 265 109.6 Q 269.9 109.6 272 118 Q 274.1 109.6 279 109.6 Q 283.9 109.6 286 118 Q 288.1 109.6 293 109.6 Q 297.9 109.6 300 118 Q 302.1 109.6 307 109.6 Q 311.9 109.6 314 118 Q 316.1 109.6 321 109.6 Q 325.9 109.6 328 118 Q 330.1 109.6 335 109.6 Q 339.9 109.6 342 118 Q 344.1 109.6 349 109.6 Q 353.9 109.6 356 118 Q 358.1 109.6 363 109.6 Q 367.9 109.6 370 118 Q 372.1 109.6 377 109.6 Q 381.9 109.6 384 118 Q 386.1 109.6 391 109.6 Q 395.9 109.6 398 118 Q 400.1 109.6 405 109.6 Q 409.9 109.6 412 118 Q 414.1 88.91111111111111 419 88.91111111111111 Q 423.9 88.91111111111111 426 118 Q 428.1 109.6 433 109.6 Q 437.9 109.6 440 118 Q 442.1 109.6 447 109.6 Q 451.9 109.6 454 118 Q 456.1 109.6 461 109.6 Q 465.9 109.6 468 118 Q 470.1 109.6 475 109.6 Q 479.9 109.6 482 118 Q 484.1 109.6 489 109.6 Q 493.9 109.6 496 118 Q 498.1 109.6 503 109.6 Q 507.9 109.6 510 118 Q 512.1 109.6 517 109.6 Q 521.9 109.6 524 118 Q 526.1 109.6 531 109.6 Q 535.9 109.6 538 118 Q 540.1 109.6 545 109.6 Q 549.9 109.6 552 118 Q 554.1 109.6 559 109.6 Q 563.9 109.6 566 118 Q 568.1 109.6 573 109.6 Q 577.9 109.6 580 118 Q 582.1 83 587 83 Q 591.9 83 594 118 Q 596.1 103.6888888888889 601 103.6888888888889 Q 605.9 103.6888888888889 608 118 Q 610.1 109.6 615 109.6 Q 619.9 109.6 622 118 Q 624.1 83 629 83 Q 633.9 83 636 118 Q 638.1 91.86666666666667 643 91.86666666666667 Q 647.9 91.86666666666667 650 118 Q 652.1 83 657 83 Q 661.9 83 664 118 Q 666.1 109.6 671 109.6 Q 675.9 109.6 678 118 Q 680.1 109.6 685 109.6 Q 689.9 109.6 692 118 Q 694.1 65.26666666666667 699 65.26666666666667 Q 703.9 65.26666666666667 706 118 Q 708.1 29.799999999999997 713 29.799999999999997 Q 717.9 29.799999999999997 720 118 Q 722.1 88.91111111111111 727 88.91111111111111 Q 731.9 88.91111111111111 734 118 Q 736.1 88.91111111111111 741 88.91111111111111 Q 745.9 88.91111111111111 748 118 Q 750.1 109.6 755 109.6 Q 759.9 109.6 762 118" fill="none" stroke="none"/>
 
   <!-- the ball itself -->
   <circle r="4" fill="#ff7b72">
